@@ -4,6 +4,8 @@ If you don't succeed converting your C++ header file to PXD files using [autopxd
 The results aren't as good as autopxd2, but it always outputs something. Most of the time, you will need to readjust some things, but it will save you a lot of time.
 Autopxd2, unfortunately, crashes quite often, this is why I wrote this script. 
 
+```pip install hpp2pxd```
+
 ## Install LLVM, I use the [choco version](https://community.chocolatey.org/packages/llvm) 
 
 ## Run the script
